@@ -2,7 +2,8 @@
 
 Say goodbye to Hooli, and use PipePiper for free forever.
 
-![Demo](./demo.gif)
+<video src="https://github.com/user-attachments/assets/6b9575ff-94a4-4866-9291-b671075ba0ae" autoplay controls preload />
+
 
 ## Development
 
