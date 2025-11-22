@@ -2,6 +2,8 @@
 
 Say goodbye to Hooli, and use PipePiper for free forever.
 
+![Demo](./demo.gif)
+
 ## Development
 
 ```bash
